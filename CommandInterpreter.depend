@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1624632115 source:c:\users\pedro hips\desktop\listaencadeada\commandinterpreter\commands.cpp
+	<iostream>
+	<string>
+	<filesystem>
+	<unistd.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+	<dirent.h>
+	"commands.h"
+	"utils.h"
+
+1624487996 source:c:\users\pedro hips\desktop\listaencadeada\commandinterpreter\main.cpp
+	<iostream>
+	<string>
+	<filesystem>
+	<unistd.h>
+	"commands.h"
+	"utils.h"
+
+1624633076 c:\users\pedro hips\desktop\listaencadeada\commandinterpreter\commands.h
+	<string>
+
+1624631660 c:\users\pedro hips\desktop\listaencadeada\commandinterpreter\utils.h
+
+1624633045 source:c:\users\pedro hips\desktop\listaencadeada\commandinterpreter\utils.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<algorithm>
+	<iterator>
+	"utils.h"
+	"commands.h"
+
